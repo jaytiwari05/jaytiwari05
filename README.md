@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jay.tiwari23@aiml.sce.edu.in**
 
-- ⚡ Fun fact **I Am A Very Serious Person**
+- ⚡ Fun fact **{ no fun :( }**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
