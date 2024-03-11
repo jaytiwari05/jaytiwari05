@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="jaytiwari05" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaytiwari05" alt="jaytiwari05" /></a> </p>
-
 - 🔭 I’m currently working on VAPT **Penetration Testing & Bug Hunter**
 
 - 🌱 I’m currently learning **Active Directory, Buffer Overflow, Binary explotation**
@@ -32,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaytiwari05&show_icons=true&locale=en&layout=compact" alt="jaytiwari05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaytiwari05&show_icons=true&locale=en" alt="jaytiwari05" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jaytiwari05&" alt="jaytiwari05" /></p>
