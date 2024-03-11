@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jay</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaytiwari05&label=Profile%20views&color=0e75b6&style=flat" alt="jaytiwari05" /> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pain0555&label=Profile%20views&color=0e75b6&style=flat" alt="pain0555" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaytiwari05" alt="jaytiwari05" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
